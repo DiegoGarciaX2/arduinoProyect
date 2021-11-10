@@ -11,7 +11,7 @@ Safety  circuit  for  the  gate  is  obligatory  in  the  system  design.  It  i
 motor  temperature  and  alarm  in  case  of over  heat. Also,  it  is mandatory to  keep  the  gate  open  during 
 the passenger crossing period, especially in case of infant strollers passing.
 
-##The branches of the code are:
+The branches of the code are:
  *Keypad
  *Motors
  *LCD
